@@ -1,0 +1,26 @@
+# Sensitive configuration
+config/local.php
+.env
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE settings
+.vscode/
+
+# Dependencies
+vendor/
+node_modules/
+
+# Database backups and exports
+*.sql.bak
+*.dump
+
+# Temporary archives
+*.zip
